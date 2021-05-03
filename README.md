@@ -5,7 +5,7 @@ Aplicación Rails con Postgres en docker-hub -> fjfdepedro/rails_postgres:6
 
 Utilizamos las imagenes de las base de datos:
 - Mongo: mongo:4.2.8
-- Postgres: la última versión que haya
+- Postgres: la última versión, la 13.2
 
 Y con la imagen Rabbitmq
 - Rabbitmq rabbitmq:3.8.2-management
