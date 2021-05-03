@@ -8,6 +8,6 @@ Utilizamos las imagenes de las base de datos:
 - Postgres: la última versión, la 13.2
 
 Y con la imagen Rabbitmq
-- Rabbitmq rabbitmq:3.8.2-management
+- Rabbitmq: rabbitmq:3.8.2-management
 
 
